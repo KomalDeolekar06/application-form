@@ -1,0 +1,80 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+   
+.bg{
+    width: 100%;
+    position: absolute;
+    opacity: 0.4 ;
+    z-index: -1;
+} 
+
+.container{
+    max-width: 80%;
+    background-color: rgb(89 38 90);
+    padding: 20px;
+    margin:     auto;
+      
+}
+
+.container h1{
+    text-align: center;
+    color:azure;
+}
+
+.application{
+    max-width: 80%;
+    
+    padding: 20px;
+    margin:  20px auto;
+}
+
+.application h3{
+    text-align: center;
+}
+
+input,textarea{
+    display: block;
+    width: 70%;
+    display: block;
+    border: solid #954787;
+    padding: 4px 5px;
+    border-radius: 5px;
+    margin: 2px auto;
+}
+
+#laptop ,#internet,#avialable{
+    width: fit-content;
+    display: inline;
+}
+
+.file{
+    border: none;
+}
+
+p{
+    font-size: 17px;
+    margin: 2px ;
+    font-weight: bold;
+    color: #240c31;
+}
+
+.btn{
+    margin: 5px 550px;
+    padding: 5px 10px;
+    border: solid #a866c4;
+    color: white;
+    background-color: #631c6a;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+h3{
+    font-size: 25px;
+}
+
+
+

@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.block{
+    max-width: 80%;
+    background-color: rgb(104 66 118);
+    
+    margin: auto;
+}
+
+h1{
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    color: beige;
+}
+
+h5{
+    padding: 20px 30px;
+    color: darkgray;
+}
+
+h2{
+    text-align: center;
+    padding: 50px 30px;
+    color: cornsilk;
+}
+
+h3{
+    margin: 5px 30px;
+    color: aliceblue;
+}
